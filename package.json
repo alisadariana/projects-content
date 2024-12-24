@@ -1,0 +1,13 @@
+{
+  "name": "projects-content",
+  "version": "1.0.0",
+  "description": "Content repository for projects",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate-meta": "node scripts/generate-meta.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "yaml": "^2.3.4"
+  }
+}

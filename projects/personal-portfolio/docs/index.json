@@ -1,0 +1,22 @@
+{
+  "documents": [
+    {
+      "type": "planning",
+      "title": "Project Planning Document",
+      "file": "planning.md",
+      "lastModified": "2024-01-15"
+    },
+    {
+      "type": "architecture",
+      "title": "Architecture Overview",
+      "file": "architecture.md",
+      "lastModified": "2024-01-20"
+    },
+    {
+      "type": "technical",
+      "title": "Technical Documentation",
+      "file": "technical.md",
+      "lastModified": "2024-02-01"
+    }
+  ]
+}

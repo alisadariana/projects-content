@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "description": "A modern portfolio website built with Vue 3, TypeScript, and Tailwind CSS. Features a clean design, dark mode support, and dynamic content loading.",
+      "type": "personal",
+      "status": "in-progress",
+      "startDate": "2024-01-15",
+      "tags": [
+        "vue",
+        "typescript",
+        "tailwind"
+      ],
+      "slug": "personal-portfolio",
+      "links": {
+        "github": "https://github.com/alisadariana/portfolio",
+        "live": "https://alisadariana.dev"
+      },
+      "visibility": "public",
+      "features": [
+        {
+          "name": "Dynamic Content Loading",
+          "status": "completed",
+          "description": "Load content dynamically from markdown files in separate repositories"
+        },
+        {
+          "name": "Dark Mode Support",
+          "status": "in-progress",
+          "description": "Automatic and manual dark mode switching with system preference detection"
+        },
+        {
+          "name": "Project Showcase",
+          "status": "planned",
+          "description": "Interactive project gallery with detailed case studies"
+        }
+      ],
+      "techStack": [
+        {
+          "category": "Frontend",
+          "items": [
+            "Vue 3",
+            "TypeScript",
+            "Tailwind CSS",
+            "Vue Router"
+          ]
+        },
+        {
+          "category": "Build Tools",
+          "items": [
+            "Vite",
+            "PostCSS"
+          ]
+        },
+        {
+          "category": "Version Control",
+          "items": [
+            "Git",
+            "GitHub"
+          ]
+        }
+      ],
+      "path": "personal-portfolio/README.md"
+    }
+  ]
+}
